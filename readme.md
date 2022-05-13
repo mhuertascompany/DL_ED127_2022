@@ -11,7 +11,7 @@ Location: Observatoire de Paris / IAP
 - Monday: Salle J.F. Denisse
 - Tuesday: Salle Danjon
 - Wednesday: Salle J.F. Denisse
-- Thursday: Morning: Salle J.F. Deniise; Afternoon: IAP Salle des Séminaires
+- Thursday: Morning: Salle J.F. Denisse; Afternoon: IAP Salle des Séminaires
 - Friday: Salle J.F. Denisse
 
 ## Requirements:
